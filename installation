@@ -1,0 +1,11 @@
+Flutter Installation
+
+  C:\src>git clone https://github.com/flutter/flutter.git -b stable
+
+Android Studio
+
+  https://developer.android.com/studio?gclsrc=ds&gclid=COz40rr6mfQCFQumjgodFIYAYQ&gclsrc=ds#downloads
+
+Git
+
+  https://git-scm.com/download/win
